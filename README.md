@@ -28,4 +28,4 @@
 
 ## Ссылка на деплой проекта:
 
-[Ссылка на проект в github-pages]()
+[Ссылка на проект в github-pages](https://laaimak.github.io/russian-travel/)
